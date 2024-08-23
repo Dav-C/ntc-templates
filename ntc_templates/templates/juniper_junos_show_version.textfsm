@@ -84,6 +84,7 @@ Start
   ^node\d+
   ^CHEF
   ^[Jj][Uu][Nn][Oo][Ss]\s+
+  ^Junos\s+vmguest\s+package
   ^\-+
   ^{master:\d+}
   ^{primary:\S+}
